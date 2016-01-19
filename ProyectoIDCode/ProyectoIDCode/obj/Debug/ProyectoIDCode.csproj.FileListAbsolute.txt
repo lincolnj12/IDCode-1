@@ -1,0 +1,4 @@
+C:\Users\LuisJohnny\Desktop\Proyecto Integracion CA-CQ 11-09-15\Proyecto Integracion CA-CQ 13-09-15\ProyectoIDCode\ProyectoIDCode\bin\ProyectoIDCode.dll
+C:\Users\LuisJohnny\Desktop\Proyecto Integracion CA-CQ 11-09-15\Proyecto Integracion CA-CQ 13-09-15\ProyectoIDCode\ProyectoIDCode\bin\ProyectoIDCode.pdb
+C:\Users\LuisJohnny\Desktop\Proyecto Integracion CA-CQ 11-09-15\Proyecto Integracion CA-CQ 13-09-15\ProyectoIDCode\ProyectoIDCode\obj\Debug\ProyectoIDCode.dll
+C:\Users\LuisJohnny\Desktop\Proyecto Integracion CA-CQ 11-09-15\Proyecto Integracion CA-CQ 13-09-15\ProyectoIDCode\ProyectoIDCode\obj\Debug\ProyectoIDCode.pdb
